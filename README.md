@@ -46,4 +46,4 @@
 - https://alison.com/course/introduction-to-decentralized-finance-defi 
 - https://101blockchains.com/course/defi-course/ 
 - https://defi-learning.org/f22 
-- https://www.udemy.com/course/defi-aprenda-sobre-criptomoedas-no-mercado-defi/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_114148736799_._ad_485704569539_._kw__._de_c_._dm__._pl__._ti_dsa-394261112353_._li_9100303_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-JVQRVMdC8mQ6sRIkrDvbRDlVhU-O-7JGbuSEa8WxO1VIKPU-emIuUaAoSVEALw_wcB 
+- https://www.udemy.com/course/defi-aprenda-sobre-criptomoedas-no-mercado-defi/
