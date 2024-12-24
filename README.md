@@ -1,4 +1,4 @@
-# Defi de a-z 
+# Defi de A-Z 
 
 ##Grade do curso
 
@@ -22,7 +22,7 @@
 4. Alavancagem em AAVE
 5. Short com DeFi
 6. Posições de short com AAVE
-## Módulo 4 - Staking e Yield Farming nan
+## Módulo 4 - Staking e Yield Farming
 1. O que é Staking?
 2. Staking de Polygon, AAVE e GMX 
 3. Staking Líquido
@@ -33,12 +33,12 @@
 8. Yield Farming com Beefy
 9. Money Legos
 10. Money Legos com EtherFi
-## Módulo 5 - Outros Mercados nan
+## Módulo 5 - Outros Mercados
 1. Futuros e Derivativos
 2. Derivativos com GMX
 3. Mercados de Predição
 4. Mercados de Predição com Polymarket
-## Módulo 6 - Mitigação de Riscos  nan
+## Módulo 6 - Mitigação de Riscos 
 1. Riscos em DeFi
 2. Como Evitar a Ruína
 3. Wallet Guard
