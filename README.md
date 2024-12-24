@@ -1,46 +1,46 @@
 # defi-101 ementa
 
 ## Módulo 1 (Introdução a DeFi e AMM)
-- 01 O que é DeFi?
-- 02 Swaps na Uniswap e 1INCH
-- 03 Stablecoins
-- 04 Pools de Liquidez
-- 05 Provisionamento de Liquidez
+1. O que é DeFi?
+2. Swaps na Uniswap e 1INCH
+3. Stablecoins
+4. Pools de Liquidez
+5. Provisionamento de Liquidez
 ## Módulo 2 - Estratégias Avançadas em AMM nan
-- 01 Travas de Alcance
-- 02 Provendo Liquidez na Uniswap
-- 03 DCA com Pools de Liquidez
-- 04 Prover Liquidez em Tokens Novos
-- 05 Prover Liquidez Correlacionada
-- 06 Como encontrar Pools de Liquidez
+1. Travas de Alcance
+2. Provendo Liquidez na Uniswap
+3. DCA com Pools de Liquidez
+4. Prover Liquidez em Tokens Novos
+5. Prover Liquidez Correlacionada
+6. Como encontrar Pools de Liquidez
 ## Módulo 3 - Empréstimos e Alavancagem nan
-- 01 Empréstimos em DeFi
-- 02 Como fazer empréstimos na AAVE
-- 03 Alavancagem com DeFi
-- 04 Alavancagem em AAVE
-- 05 Short com DeFi
-- 06 Posições de short com AAVE
+1. Empréstimos em DeFi
+2. Como fazer empréstimos na AAVE
+3. Alavancagem com DeFi
+4. Alavancagem em AAVE
+5. Short com DeFi
+6. Posições de short com AAVE
 ## Módulo 4 - Staking e Yield Farming nan
-- 01 O que é Staking?
-- 02 Staking de Polygon, AAVE e GMX 
-- 03 Staking Líquido
-- 04 Staking Líquido com LIDO
-- 05 Reestaking
-- 06 Restaking com EigenLayer
-- 07 Yield Farming
-- 08 Yield Farming com Beefy
-- 09 Money Legos
-- 10 Money Legos com EtherFi
+1. O que é Staking?
+2. Staking de Polygon, AAVE e GMX 
+3. Staking Líquido
+4. Staking Líquido com LIDO
+5. Reestaking
+6. Restaking com EigenLayer
+7. Yield Farming
+8. Yield Farming com Beefy
+9. Money Legos
+10. 10 Money Legos com EtherFi
 ## Módulo 5 - Outros Mercados nan
-- 01 Futuros e Derivativos
-- 02 Derivativos com GMX
-- 03 Mercados de Predição
-- 04 Mercados de Predição com Polymarket
+1. Futuros e Derivativos
+2. Derivativos com GMX
+3. Mercados de Predição
+4. Mercados de Predição com Polymarket
 ## Módulo 6 - Mitigação de Riscos  nan
-- 01 Riscos em DeFi
-- 02 Como Evitar a Ruína
-- 03 Wallet Guard
-- 04 Revogação de Contratos
+1. Riscos em DeFi
+2. Como Evitar a Ruína
+3. Wallet Guard
+4. Revogação de Contratos
 
 ### Referências:
 - https://alison.com/course/introduction-to-decentralized-finance-defi 
