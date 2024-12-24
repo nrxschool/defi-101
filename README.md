@@ -2,6 +2,8 @@
 
 ## Grade do curso
 
+![capa](/capa.jpg)
+
 ## Módulo 1 (Introdução a DeFi e AMM)
 1. O que é DeFi?
 2. Swaps na Uniswap e 1INCH
