@@ -1,4 +1,6 @@
-# defi-101 ementa
+# Defi de a-z 
+
+##Grade do curso
 
 ## Módulo 1 (Introdução a DeFi e AMM)
 1. O que é DeFi?
@@ -6,14 +8,14 @@
 3. Stablecoins
 4. Pools de Liquidez
 5. Provisionamento de Liquidez
-## Módulo 2 - Estratégias Avançadas em AMM nan
+## Módulo 2 - Estratégias Avançadas em AMM
 1. Travas de Alcance
 2. Provendo Liquidez na Uniswap
 3. DCA com Pools de Liquidez
 4. Prover Liquidez em Tokens Novos
 5. Prover Liquidez Correlacionada
 6. Como encontrar Pools de Liquidez
-## Módulo 3 - Empréstimos e Alavancagem nan
+## Módulo 3 - Empréstimos e Alavancagem
 1. Empréstimos em DeFi
 2. Como fazer empréstimos na AAVE
 3. Alavancagem com DeFi
