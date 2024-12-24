@@ -42,8 +42,3 @@
 3. Wallet Guard
 4. Revogação de Contratos
 
-### Referências:
-- https://alison.com/course/introduction-to-decentralized-finance-defi 
-- https://101blockchains.com/course/defi-course/ 
-- https://defi-learning.org/f22 
-- https://www.udemy.com/course/defi-aprenda-sobre-criptomoedas-no-mercado-defi/
