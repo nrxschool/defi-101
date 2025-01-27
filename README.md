@@ -38,6 +38,7 @@
 8. Yield Farming com Beefy
 9. Money Legos
 10. Money Legos com EtherFi
+
 ## Módulo 5 - Outros Mercados
 1. Futuros e Derivativos
 2. Derivativos com GMX
