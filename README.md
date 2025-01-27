@@ -15,9 +15,9 @@
 1. Limitaciones de Alcance
 2. Provisión de liquidez en Uniswap
 3. DCA con pools de liquidez
-4. Proporcionar liquidez en tokens nuevos
-5. Proporcionar liquidez correlacionada
-6. Búsqueda de fondos de liquidez
+4. Proveyendo liquidez en tokens nuevos
+5. Proveyendo liquidez correlacionada
+6. Cómo encontrar fondos de liquidez
 
 ## Módulo 3 - Préstamos y apalancamiento
 1. Préstamos en DeFi
@@ -47,7 +47,7 @@
 
 ## Módulo 6 - Mitigación del Riesgo 
 1. Riesgos en DeFi
-2. Cómo evitar la ruina
+2. Evita la ruina
 3. Wallet Guard
 4. Revocación de Contratos
 
