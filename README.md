@@ -36,8 +36,8 @@
 6. Restakeo con EigenLayer
 7. Yield Farming
 8. Yield Farming con Beefy
-9. Legos de dinero
-10. Legos de dinero con EtherFi
+9. "Money Legos"
+10. "Money Legos" con EtherFi
 
 ## Módulo 5 - Otros Mercados
 1. Futuros y derivados
