@@ -1,6 +1,6 @@
 # Defi de A-Z 
 
-## Grade do curso
+##Grade do curso
 
 ![capa](/capa.jpg)
 
