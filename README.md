@@ -27,13 +27,13 @@
 5. Short con DeFi
 6. Posiciones short con AAVE
 
-## Módulo 4 - Restaking y Yield Farming
+## Módulo 4 - Restakeo y Yield Farming
 1. ¿Qué es el staking?
 2. Staking en Polygon, AAVE y GMX 
 3. Staking líquido
 4. Staking líquido con LIDO
 5. Reestaking
-6. Restaking con EigenLayer
+6. Restakeo con EigenLayer
 7. Yield Farming
 8. Yield Farming con Beefy
 9. Legos de dinero
